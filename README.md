@@ -13,9 +13,9 @@
 [![website](https://img.shields.io/badge/website-aladinstudio-2648ff?style=flat-square&logo=google-chrome&color=informational)](https://aladinstudio.com/)
 [![facebook](https://img.shields.io/badge/-MahfoudhArous-0084FF?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/mahfoudh.arous/)
 
-<a href="https://github.com/iampawan">
+<a href="https://github.com/aladin002dz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aladin002dz&theme=light&hide_langs_below=1" />
 </a>
-<a href="https://github.com/iampawan">
+<a href="https://github.com/aladin002dz">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aladin002dz&show_icons=true&theme=light&line_height=27" alt="Mahfoudh's github stats"/>
 </a>
