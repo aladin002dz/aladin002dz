@@ -9,5 +9,5 @@
 - 😄 Pronouns: (He/Him)
 - ⚡ Fun fact: I have so many unrelated passions: electronics, litterature, drawing, science,...
  <img src="https://komarev.com/ghpvc/?username=aladin002dz&label=Views&color=blue&style=plastic" alt="aladin002dz" /> 
-[![Twitter: aladin02dz]( https://img.shields.io/twitter/follow/aladin02dz?style=social)](https://twitter.com/aladin02dz)
+[![Twitter: aladin02dz](https://img.shields.io/twitter/follow/aladin02dz?style=social)](https://twitter.com/aladin02dz)
 
