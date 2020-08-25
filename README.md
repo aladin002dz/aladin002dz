@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on a Web Application, Frontend part(React). 
 - 🌱 I’m currently learning Laravel.
 - 💬 Ask me about C#, JS, React, Bootstrap, VPS,...
-- 😄 Pronouns: (He/Him)
 - ⚡ Fun fact: I have so many unrelated passions: electronics, litterature, drawing, science,...
  <img src="https://komarev.com/ghpvc/?username=aladin002dz&label=Views&color=blue&style=plastic" alt="aladin002dz" />  
    
