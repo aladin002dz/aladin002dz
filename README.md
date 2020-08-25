@@ -15,6 +15,7 @@
 [![website](https://img.shields.io/badge/website-aladinstudio-2648ff?style=flat-square&logo=google-chrome&color=informational)](https://aladinstudio.com/)
 [![GitHub aladin002dz](https://img.shields.io/github/followers/aladin002dz?label=follow&style=social)](https://github.com/aladin002dz)
 [![facebook](https://img.shields.io/badge/-MahfoudhArous-0084FF?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/mahfoudh.arous/)
+[![youtube](https://img.shields.io/badge/-MahfoudhArous-ff0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCs03m_fP9-ijDyHmj15m-Jw?view_as=subscriber)
 
 
 <a href="https://github.com/iampawan">
