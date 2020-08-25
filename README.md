@@ -14,6 +14,8 @@
 [![Linkedin: Mahfoudh-Arous](https://img.shields.io/badge/-MahfoudhArous-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahfoudh-arous/)](https://www.linkedin.com/in/mahfoudh-arous/)
 [![website](https://img.shields.io/badge/website-aladinstudio-2648ff?style=flat-square&logo=google-chrome&color=informational)](https://aladinstudio.com/)
 [![GitHub aladin002dz](https://img.shields.io/github/followers/aladin002dz?label=follow&style=social)](https://github.com/aladin002dz)
+[![facebook](https://img.shields.io/badge/-MahfoudhArous-0084FF?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/mahfoudh.arous/)
+
 
 <a href="https://github.com/iampawan">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aladin002dz&show_icons=true&theme=light&line_height=27" alt="Mahfoudh's github stats"/>
