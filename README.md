@@ -1,7 +1,7 @@
 ### Hi there, I'm [Mahfoudh](https://aladinstudio.com/) 👋
 
 - 🔭 I’m currently working on a Web Application, Frontend part(React). 
-- 🌱 I’m currently learning php/Laravel.
+- 🌱 I’m currently learning Laravel.
 - 👯 I’m looking to collaborate on Open Source projects.
 - 🤔 I’m looking for help with landing a remote job.
 - 💬 Ask me about C#, JS, React, Bootstrap, VPS,...
