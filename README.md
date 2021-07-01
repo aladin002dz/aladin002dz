@@ -1,7 +1,7 @@
 ### Hi there, I'm [Mahfoudh](https://aladinstudio.com/) 👋
 
-- 🌱 I’m currently learning "Data Science".
-- 💬 Ask me about C#, JS, React, Bootstrap, VPS,...
+- 🌱 I’m currently learning "German Language".
+- 💬 Ask me about Web, C#, JS, React, Bootstrap, VPS,...
 - ⚡ Fun fact: I have so many unrelated passions: electronics, litterature, drawing, science,...
  <img src="https://komarev.com/ghpvc/?username=aladin002dz&label=Views&color=blue&style=plastic" alt="aladin002dz" />  
    
