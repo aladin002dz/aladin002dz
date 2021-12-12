@@ -1,6 +1,6 @@
-### Hi there, I'm [Mahfoudh](https://aladinstudio.com/) 👋
+### Hi there, I'm [Mahfoudh](https://aladin002dz.github.io/) 👋
 
-- 🌱 I’m currently learning "German Language".
+- 🌱 I’m currently learning "Angular".
 - 💬 Ask me about Web, C#, JS, React, Bootstrap, VPS,...
 - ⚡ Fun fact: I have so many unrelated passions: electronics, litterature, drawing, science,...
  <img src="https://komarev.com/ghpvc/?username=aladin002dz&label=Views&color=blue&style=plastic" alt="aladin002dz" />  
