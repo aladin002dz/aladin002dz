@@ -1,6 +1,6 @@
 ### Hi there, I'm [Mahfoudh](https://aladin002dz.github.io/) 👋
 
-- 🌱 I’m currently learning "Angular".
+- 🌱 I’m currently (re)learning "React".
 - 💬 Ask me about Web, C#, JS, React, Bootstrap, VPS,...
 - ⚡ Fun fact: I have so many unrelated passions: electronics, litterature, playing guitar, drawing, science,...
  <img src="https://komarev.com/ghpvc/?username=aladin002dz&label=Views&color=blue&style=plastic" alt="aladin002dz" />  
