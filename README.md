@@ -1,9 +1,9 @@
 ### Hi there, I'm [Mahfoudh](https://aladin002dz.github.io/) 👋
 
-- 🌱 I’m currently learning "[Next](https://nextjs.org/learn/foundations/about-nextjs)", Design Patterns, Microservices.
+- 🌱 I’m currently learning Tailwindcss.
 - ⛹ I’m currently practicing Web UI coding (CSS, Sass, ...).
 - 💬 Ask me about Web, JS, React, Bootstrap, VPS, C#,...
-- ⚡ Fun fact: I have so many unrelated hobbies: electronics, litterature, playing guitar, drawing, science, movies, ...
+- ⚡ Fun fact: I have so many unrelated hobbies: electronics, literature, playing guitar, drawing, science, movies, ...
  <img src="https://komarev.com/ghpvc/?username=aladin002dz&label=Views&color=blue&style=plastic" alt="aladin002dz" />  
    
 [![Twitter: aladin02dz](https://img.shields.io/twitter/follow/aladin002dz?style=social)](https://twitter.com/aladin002dz)
