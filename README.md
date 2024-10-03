@@ -1,6 +1,6 @@
 ### Hi there, I'm [Mahfoudh](https://aladin002dz.github.io/) 👋
 
-- 🌱 I’m currently learning [Next](https://nextjs.org/) and [Tailwindcss](https://tailwindcss.com/).
+- 🌱 I’m currently learning [next-auth](https://authjs.dev/).
 - ⛹ I’m currently practicing Web UI coding (CSS, Sass, ...).
 - 💬 Ask me about Web, JS, React, Bootstrap, VPS, C#,...
 - ⚡ Fun fact: I have so many unrelated hobbies: electronics, literature, playing guitar, drawing, science, movies, ...
