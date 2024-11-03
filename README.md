@@ -1,7 +1,7 @@
 ### Hi there, I'm [Mahfoudh](https://aladin002dz.github.io/) 👋
 
 - 🌱 I’m currently learning [next-auth](https://authjs.dev/).
-- ⛹ I’m currently practicing Web UI coding (CSS, Sass, ...).
+- ⛹ I’m currently building a micro SaaS.
 - 💬 Ask me about Web, JS, React, Bootstrap, VPS, C#,...
 - ⚡ Fun fact: I have so many unrelated hobbies: electronics, literature, playing guitar, drawing, science, movies, ...
  <img src="https://komarev.com/ghpvc/?username=aladin002dz&label=Views&color=blue&style=plastic" alt="aladin002dz" />  
